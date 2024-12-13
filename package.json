@@ -1,0 +1,19 @@
+{
+  "name": "api-sitenoticias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Allan",
+  "license": "ISC",
+  "description": "API for SPA Diário Global",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
